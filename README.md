@@ -24,8 +24,7 @@ Créditos do Dataset:
 
 
 # Técnica
-Será utilizado Aprendizado por reforço. 
-
+To-do
 
 # Bibliotecas
-OpenCV e TensiorFlow
+To-do
