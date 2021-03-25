@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{1520F14E-6D29-35D7-AF9F-4412DC0F8596}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\external\libpng;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\external\zlib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\external\libpng;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\external\zlib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\external\libpng;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\external\zlib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\external\libpng;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\external\zlib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/dlib/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab -BC:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab/build --check-stamp-file C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab/build/dlib_build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Program Files\CMake\share\cmake-3.20\Modules\CMakePushCheckState.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckIncludeFile.c.in;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckIncludeFileCXX.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckTypeSize.c.in;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckTypeSize.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindBLAS.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindCUDA.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindCUDA\select_compute_arch.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindGIF.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindJPEG.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindPNG.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindZLIB.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\Internal\CheckSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\SelectLibraryConfigurations.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\check_if_neon_available.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\find_blas.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\find_libjpeg.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\find_libpng.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\release_build_by_default;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\set_compiler_specific_options.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\use_cpp_11.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\tools\imglab\build\CMakeFiles\CheckTypeSize\SIZE_OF_VOID_PTR.c;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\tools\imglab\build\dlib_build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/dlib/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab -BC:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab/build --check-stamp-file C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab/build/dlib_build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Program Files\CMake\share\cmake-3.20\Modules\CMakePushCheckState.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckIncludeFile.c.in;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckIncludeFileCXX.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckTypeSize.c.in;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckTypeSize.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindBLAS.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindCUDA.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindCUDA\select_compute_arch.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindGIF.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindJPEG.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindPNG.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindZLIB.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\Internal\CheckSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\SelectLibraryConfigurations.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\check_if_neon_available.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\find_blas.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\find_libjpeg.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\find_libpng.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\release_build_by_default;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\set_compiler_specific_options.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\use_cpp_11.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\tools\imglab\build\CMakeFiles\CheckTypeSize\SIZE_OF_VOID_PTR.c;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\tools\imglab\build\dlib_build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/dlib/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab -BC:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab/build --check-stamp-file C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab/build/dlib_build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Program Files\CMake\share\cmake-3.20\Modules\CMakePushCheckState.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckIncludeFile.c.in;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckIncludeFileCXX.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckTypeSize.c.in;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckTypeSize.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindBLAS.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindCUDA.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindCUDA\select_compute_arch.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindGIF.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindJPEG.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindPNG.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindZLIB.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\Internal\CheckSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\SelectLibraryConfigurations.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\check_if_neon_available.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\find_blas.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\find_libjpeg.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\find_libpng.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\release_build_by_default;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\set_compiler_specific_options.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\use_cpp_11.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\tools\imglab\build\CMakeFiles\CheckTypeSize\SIZE_OF_VOID_PTR.c;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\tools\imglab\build\dlib_build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/dlib/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab -BC:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab/build --check-stamp-file C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab/build/dlib_build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Program Files\CMake\share\cmake-3.20\Modules\CMakePushCheckState.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckIncludeFile.c.in;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckIncludeFileCXX.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckTypeSize.c.in;C:\Program Files\CMake\share\cmake-3.20\Modules\CheckTypeSize.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindBLAS.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindCUDA.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindCUDA\select_compute_arch.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindGIF.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindJPEG.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindPNG.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindThreads.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\FindZLIB.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\GNUInstallDirs.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\Internal\CheckSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.20\Modules\SelectLibraryConfigurations.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\check_if_neon_available.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\find_blas.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\find_libjpeg.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\find_libpng.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\release_build_by_default;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\set_compiler_specific_options.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\use_cpp_11.cmake;C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\tools\imglab\build\CMakeFiles\CheckTypeSize\SIZE_OF_VOID_PTR.c;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\tools\imglab\build\dlib_build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\tools\imglab\build\ZERO_CHECK.vcxproj">
+      <Project>{675DE5AF-D43A-3A99-A45A-8B2816C05E48}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\tools\imglab\build\dlib_build\dlib.vcxproj">
+      <Project>{38699F1F-E31F-3DC7-AFA9-182CF5842BC2}</Project>
+      <Name>dlib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
