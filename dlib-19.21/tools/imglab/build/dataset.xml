@@ -5,42 +5,43 @@
 <comment>Created by imglab tool.</comment>
 <images>
   <image file='imgs\00000_Mask.jpg'>
-    <box top='510' left='134' width='627' height='346'/>
+    <box top='516' left='133' width='629' height='348'/>
   </image>
   <image file='imgs\00001_Mask.jpg'>
-    <box top='536' left='220' width='626' height='463'/>
+    <box top='557' left='231' width='600' height='433'/>
   </image>
   <image file='imgs\00002_Mask.jpg'>
-    <box top='502' left='188' width='577' height='389'/>
+    <box top='511' left='191' width='570' height='396'/>
   </image>
   <image file='imgs\00003_Mask.jpg'>
-    <box top='541' left='212' width='592' height='343'/>
+    <box top='546' left='226' width='584' height='333'/>
   </image>
   <image file='imgs\00004_Mask.jpg'>
-    <box top='533' left='243' width='550' height='417'/>
+    <box top='531' left='247' width='555' height='428'/>
   </image>
   <image file='imgs\00005_Mask.jpg'>
-    <box top='555' left='251' width='504' height='301'/>
+    <box top='575' left='257' width='480' height='296'/>
   </image>
   <image file='imgs\00006_Mask.jpg'>
-    <box top='538' left='280' width='588' height='422'/>
+    <box top='542' left='290' width='576' height='408'/>
   </image>
   <image file='imgs\00007_Mask.jpg'>
-    <box top='512' left='159' width='594' height='377'/>
+    <box top='525' left='164' width='588' height='352'/>
   </image>
   <image file='imgs\00008_Mask.jpg'>
-    <box top='541' left='209' width='559' height='402'/>
+    <box top='541' left='212' width='550' height='383'/>
   </image>
   <image file='imgs\00009_Mask.jpg'>
-    <box top='540' left='83' width='626' height='431'/>
+    <box top='537' left='65' width='631' height='441'/>
   </image>
   <image file='imgs\00010_Mask.jpg'>
+    <box top='508' left='213' width='562' height='388'/>
   </image>
   <image file='imgs\00011_Mask.jpg'>
-    <box top='584' left='210' width='597' height='382'/>
+    <box top='578' left='212' width='589' height='392'/>
   </image>
   <image file='imgs\00012_Mask.jpg'>
-    <box top='557' left='243' width='549' height='405'/>
+    <box top='575' left='252' width='519' height='363'/>
   </image>
 </images>
 </dataset>
