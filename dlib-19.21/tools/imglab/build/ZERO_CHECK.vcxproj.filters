@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\tools\imglab\build\CMakeFiles\6d33ca6201b645e22283e0e49278f060\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\Brend\OneDrive\Documentos\T1\Mask-Detector\dlib-19.21\tools\imglab\build\CMakeFiles\ec74a38816639a5c8d20bb28185206cf\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{CEC1B7C4-B080-3E8E-BC3E-91AED96496EB}</UniqueIdentifier>
+      <UniqueIdentifier>{2398DD6F-48BE-326C-B369-4FDB7CDF629A}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

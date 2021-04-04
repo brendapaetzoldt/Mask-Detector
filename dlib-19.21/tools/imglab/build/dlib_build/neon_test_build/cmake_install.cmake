@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/dlib/cmake_utils/test_for_neon
+# Install script for directory: C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/dlib/cmake_utils/test_for_neon
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab/build/dlib_build/neon_test_build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/tools/imglab/build/dlib_build/neon_test_build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -5,7 +5,9 @@ import cv2
 pula_quadros = 30
 captura = cv2.VideoCapture(0)
 contadorQuadros = 0
-detector = dlib.simple_object_detector("detector_delirium.svm")
+
+detector = dlib.simple_object_detector("dataset_mascaras.svm")
+
 
 while captura.isOpened():
     conectado, frame = captura.read()

@@ -22,12 +22,12 @@ C:/Program Files/CMake/share/cmake-3.20/Modules/FindZLIB.cmake
 C:/Program Files/CMake/share/cmake-3.20/Modules/GNUInstallDirs.cmake
 C:/Program Files/CMake/share/cmake-3.20/Modules/Internal/CheckSourceCompiles.cmake
 C:/Program Files/CMake/share/cmake-3.20/Modules/SelectLibraryConfigurations.cmake
-C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/dlib/CMakeLists.txt
-C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/dlib/cmake_utils/check_if_neon_available.cmake
-C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/dlib/cmake_utils/find_blas.cmake
-C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/dlib/cmake_utils/find_libjpeg.cmake
-C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/dlib/cmake_utils/find_libpng.cmake
-C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/dlib/cmake_utils/release_build_by_default
-C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/dlib/cmake_utils/set_compiler_specific_options.cmake
-C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/dlib/cmake_utils/use_cpp_11.cmake
-C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab/build/CMakeFiles/CheckTypeSize/SIZE_OF_VOID_PTR.c
+C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/dlib/CMakeLists.txt
+C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/dlib/cmake_utils/check_if_neon_available.cmake
+C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/dlib/cmake_utils/find_blas.cmake
+C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/dlib/cmake_utils/find_libjpeg.cmake
+C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/dlib/cmake_utils/find_libpng.cmake
+C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/dlib/cmake_utils/release_build_by_default
+C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/dlib/cmake_utils/set_compiler_specific_options.cmake
+C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/dlib/cmake_utils/use_cpp_11.cmake
+C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/tools/imglab/build/CMakeFiles/CheckTypeSize/SIZE_OF_VOID_PTR.c

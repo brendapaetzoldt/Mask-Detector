@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\test_for_neon\neon_test.cpp">
+    <ClCompile Include="C:\Users\Brend\OneDrive\Documentos\T1\Mask-Detector\dlib-19.21\dlib\cmake_utils\test_for_neon\neon_test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Brend\OneDrive\Documentos\75INC\dlib-19.21\dlib\cmake_utils\test_for_neon\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\Brend\OneDrive\Documentos\T1\Mask-Detector\dlib-19.21\dlib\cmake_utils\test_for_neon\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{2B86D75C-E57A-3D31-8D8D-E08A52316977}</UniqueIdentifier>
+      <UniqueIdentifier>{56A0AFA1-E3C2-3BD3-AC23-9D3B4EAD35C7}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

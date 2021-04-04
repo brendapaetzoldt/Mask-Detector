@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/dlib
+# Install script for directory: C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/dlib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

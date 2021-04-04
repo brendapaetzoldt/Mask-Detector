@@ -1,7 +1,7 @@
-C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab/build/CMakeFiles/imglab.dir
-C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab/build/CMakeFiles/INSTALL.dir
-C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab/build/dlib_build/CMakeFiles/dlib.dir
-C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab/build/dlib_build/CMakeFiles/INSTALL.dir
-C:/Users/Brend/OneDrive/Documentos/75INC/dlib-19.21/tools/imglab/build/dlib_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/tools/imglab/build/CMakeFiles/imglab.dir
+C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/tools/imglab/build/CMakeFiles/INSTALL.dir
+C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/tools/imglab/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/tools/imglab/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/tools/imglab/build/dlib_build/CMakeFiles/dlib.dir
+C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/tools/imglab/build/dlib_build/CMakeFiles/INSTALL.dir
+C:/Users/Brend/OneDrive/Documentos/T1/Mask-Detector/dlib-19.21/tools/imglab/build/dlib_build/CMakeFiles/ALL_BUILD.dir
