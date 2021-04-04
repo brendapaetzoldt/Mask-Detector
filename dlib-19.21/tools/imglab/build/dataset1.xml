@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+    <name>imglab dataset</name>
+    <comment>Created by imglab tool.</comment>
+    <images>
+        <image file='imgs_incorretas\00000_Mask_Mouth_Chin.jpg'>
+            <box top='473' left='447' width='170' height='164'/>
+            <box top='587' left='143' width='647' height='276'/>
+        </image>
+        <image file='imgs_incorretas\00001_Mask_Chin.jpg'>
+            <box top='736' left='219' width='601' height='235'/>
+        </image>
+        <image file='imgs_incorretas\00001_Mask_Mouth_Chin.jpg'>
+            <box top='643' left='228' width='619' height='378'/>
+        </image>
+        <image file='imgs_incorretas\00002_Mask_Mouth_Chin.jpg'>
+            <box top='488' left='421' width='200' height='193'/>
+            <box top='588' left='183' width='624' height='308'/>
+        </image>
+        <image file='imgs_incorretas\00003_Mask_Mouth_Chin.jpg'>
+            <box top='498' left='407' width='204' height='166'/>
+            <box top='609' left='227' width='592' height='267'/>
+        </image>
+        <image file='imgs_incorretas\00004_Mask_Mouth_Chin.jpg'>
+            <box top='534' left='398' width='232' height='161'/>
+            <box top='594' left='257' width='589' height='349'/>
+        </image>
+        <image file='imgs_incorretas\00014_Mask_Mouth_Chin.jpg'>
+            <box top='507' left='411' width='205' height='157'/>
+            <box top='623' left='211' width='573' height='283'/>
+        </image>
+        <image file='imgs_incorretas\00015_Mask_Mouth_Chin.jpg'>
+            <box top='604' left='243' width='566' height='351'/>
+        </image>
+        <image file='imgs_incorretas\00016_Mask_Mouth_Chin.jpg'>
+            <box top='526' left='184' width='622' height='423'/>
+        </image>
+        <image file='imgs_incorretas\00017_Mask_Chin.jpg'>
+            <box top='532' left='162' width='599' height='429'/>
+        </image>
+        <image file='imgs_incorretas\00018_Mask_Mouth_Chin.jpg'>
+            <box top='559' left='198' width='586' height='403'/>
+        </image>
+        <image file='imgs_incorretas\00019_Mask_Chin.jpg'>
+            <box top='542' left='152' width='612' height='401'/>
+        </image>
+        <image file='imgs_incorretas\00081_Mask_Chin.jpg'>
+            <box top='576' left='219' width='594' height='380'/>
+        </image>
+    </images>
+</dataset>
