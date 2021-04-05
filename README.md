@@ -27,10 +27,8 @@ Créditos do Dataset:
 To-do
 
 # Bibliotecas
-Dlib
 Dlib é um kit de ferramentas em C ++ que contém algoritmos de Learn Machine e ferramentas para a criação de softwares para resolver problemas do mundo real. 
 
-Opencv
 Opencv é uma biblioteca multiplataforma para o desenvolvimento de aplicativos na área de Visão computacional.
 
 # Resultados obtidos
