@@ -38,7 +38,7 @@ To-do
 To-do
 
 # Instruções para uso do software
-Basta clicar no arquivo executável chamado delirium_webcam.exe, a webcam irá abrir e detectar se a máscara está sendo utilizada.
+Basta clicar no arquivo executável chamado webcam.exe, a webcam irá abrir e detectar se a máscara está sendo utilizada.
 
 # Vídeo
 To-do
