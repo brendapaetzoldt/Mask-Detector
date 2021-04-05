@@ -33,13 +33,16 @@ Dlib é um kit de ferramentas em C ++ que contém algoritmos de Learn Machine e 
 Opencv
 Opencv é uma biblioteca multiplataforma para o desenvolvimento de aplicativos na área de Visão computacional.
 
+# Resultados obtidos
+To-do
+
 #Resultados obtidos
 To-do
 
 # Instruções para uso do software
 Basta clicar no arquivo executável chamado delirium_webcam.exe, a webcam irá abrir e detectar se a máscara está sendo utilizada.
 
-#Vídeo
+# Vídeo
 To-do
 
 
