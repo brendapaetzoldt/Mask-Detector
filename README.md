@@ -24,23 +24,18 @@ Créditos do Dataset:
 
 
 # Técnica
-To-do
+Utilizei técnicas de Deep Learning com as bibliotecas Dlib e Opencv. Foram desenhadas "bounding boxes" ou retângulos nas máscaras contidas nas imagens do dataset.
+A biblioteca Dlib para o treinamento dessas imagens desenhadas.
 
 # Bibliotecas
 Dlib é um kit de ferramentas em C ++ que contém algoritmos de Learn Machine e ferramentas para a criação de softwares para resolver problemas do mundo real. 
 
 Opencv é uma biblioteca multiplataforma para o desenvolvimento de aplicativos na área de Visão computacional.
 
-# Resultados obtidos
-To-do
-
-#Resultados obtidos
-To-do
 
 # Instruções para uso do software
 Basta clicar no arquivo executável chamado webcam.exe, a webcam irá abrir e detectar se a máscara está sendo utilizada.
 
 # Vídeo
-To-do
-
+https://udesc-my.sharepoint.com/:v:/g/personal/43900561826_edu_udesc_br/EXEaQWvlI7xMpj6IJt8_454Bqp5NsAlj7nHkEHF7KanCmQ?e=4CLD3k
 
