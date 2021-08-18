@@ -36,6 +36,5 @@ Opencv é uma biblioteca multiplataforma para o desenvolvimento de aplicativos n
 # Instruções para uso do software
 Basta clicar no arquivo executável chamado webcam.exe, a webcam irá abrir e detectar se a máscara está sendo utilizada.
 
-# Vídeo
-https://udesc-my.sharepoint.com/:v:/g/personal/43900561826_edu_udesc_br/EXEaQWvlI7xMpj6IJt8_454Bqp5NsAlj7nHkEHF7KanCmQ?e=4CLD3k
+
 
