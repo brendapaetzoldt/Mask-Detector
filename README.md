@@ -1,6 +1,6 @@
 # Mask-Detector
 
-Trabalho desenvolvido com o objetivo de implementar alguma técnica de Inteligência Computacional e demonstrar sua aplicação para a disciplina de Inteligência Computacional do Centro de Educação Superior do Alto Vale do Itajaí (CEAVI/UDESC).
+> Trabalho desenvolvido com o objetivo de implementar alguma técnica de Inteligência Computacional e demonstrar sua aplicação para a disciplina de Inteligência Computacional do Centro de Educação Superior do Alto Vale do Itajaí (CEAVI/UDESC).
 
 # Equipe
 Brenda Paetzoldt - brendapaetzoldt
